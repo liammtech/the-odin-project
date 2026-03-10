@@ -5,7 +5,7 @@
 - Absolute beginners in web dev
 - Anyone that wants to work as a web developer, build a startup, or just hack together a
 homepage for yourself
-- You should consider yourself fairly competent with personal computer and be open to
+- You should consider yourself fairly competent with a personal computer and be open to
 using a non-Windows based operating system
 
 ## What is the goal of The Odin Project?

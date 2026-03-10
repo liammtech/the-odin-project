@@ -5,7 +5,7 @@ The Odin Project is an open-source community, dedicated to providing the best in
 In this unit we'll learn:
 
 - How the web works
-- About the basics of computer and web programminf
+- About the basics of computer and web programming
 
 We will start with:
 
@@ -61,10 +61,10 @@ DO NOT SKIP ANYTHING!
 ## ASSIGNMENT
 
 1. Learn more about the Odin Project by reading its about page:     [ X ]
-https://www.theodinproject.com/about                                [ X ]
+https://www.theodinproject.com/about                                
 
-2. Check out the FAQ:
-https://www.theodinproject.com/faq
+2. Check out the FAQ:                                               [ X ]
+https://www.theodinproject.com/faq          
 
 ## KNOWLEDGE CHECK
 
