@@ -147,3 +147,5 @@ far
 - How can you more effectively help others with their coding problems
 
 See the 16 points above
+
+## COMPLETE
